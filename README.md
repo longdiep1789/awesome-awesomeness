@@ -104,6 +104,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 		- [Big O Notation](https://github.com/okulbilisim/awesome-big-o)
+  		- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 	- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
