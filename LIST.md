@@ -692,6 +692,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-challenges](https://github.com/mauriciovieira/awesome-challenges) – Algorithmic challenges
 * [awesome-charting](https://github.com/zingchart/awesome-charting) – Charts and dataviz.
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) – [ChatGPT](https://chat.openai.com/) prompt examples.
+* [awesome-prompt-engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - A collection of resources, tools, and examples related to prompt engineering
 * [awesome-chatops](https://github.com/exAspArk/awesome-chatops) – ChatOps – managing operations through a chat
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
 * [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) – Chemical informatics
@@ -1450,7 +1451,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-taglines](https://github.com/miketheman/awesome-taglines) – Software taglines
 * [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) – [Tailwind CSS](https://tailwindcss.com/)
   - https://git.io/awesome-tailwindcss
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-tap](https://github.com/sindresorhus/awesome-tap) – Test Anything Protocol
 * [awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) – Technical blogs
   - https://tech-blogs.dev/

@@ -305,9 +305,6 @@ A curated list of amazingly awesome awesomeness.
 	- [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
-	- Raspberry Pi
-		- [by @blackout314](https://github.com/blackout314/awesome-raspberry-pi)
-		- [by @thibmaek](https://github.com/thibmaek/awesome-raspberry-pi)
 	- [React Native](https://github.com/jondot/awesome-react-native)
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
@@ -347,8 +344,6 @@ A curated list of amazingly awesome awesomeness.
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Taglines](https://github.com/miketheman/awesome-taglines)
 	- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
-	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
-		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Telegram](https://github.com/ebertti/awesome-telegram)
 	- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
 	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
